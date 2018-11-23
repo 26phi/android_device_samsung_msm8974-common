@@ -92,7 +92,6 @@ TARGET_NEEDS_NETD_DIRECT_CONNECT_RULE := true
 # Power
 TARGET_HAS_LEGACY_POWER_STATS := true
 TARGET_HAS_NO_WLAN_STATS := true
-TARGET_USES_INTERACTION_BOOST := true
 
 # Properties
 TARGET_SYSTEM_PROP += device/samsung/msm8974-common/system.prop
